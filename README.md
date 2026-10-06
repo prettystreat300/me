@@ -1,5 +1,6 @@
 # 👋 Привет! Я Влад
-<img width="654" height="664" alt="image" src="https://github.com/user-attachments/assets/957779c1-41ac-4cee-b27e-115ed1fe61d6" />
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/3d325022-f436-411b-a04c-8e9539410fd3" />
+
 
 > «бурмалда» 
 
